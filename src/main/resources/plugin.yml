@@ -1,0 +1,4 @@
+name: BanAdminPlugin
+main: pl.behoston.banadmin.BanAdminPlugin
+version: 1.0
+author: Behoston
